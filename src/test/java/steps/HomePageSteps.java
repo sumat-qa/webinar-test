@@ -40,18 +40,18 @@ public class HomePageSteps {
         
     }
 
-    @When("I click on Insights Page")
-    public void clickInsightsPage() throws Exception {
+    @When("I hover over Insights Button")
+    public void clickInsightsButton() throws Exception {
   
     }
 
-    @Then("I navigate to Webinars Page")
-    public void navigateToWebinarsPage() throws Exception {
+    @Then("I click on Webinars drop down")
+    public void clickOnWebinarsDropDown() throws Exception {
 
     }
 
-    @And("I validate the webinars")
-    public void validateWebinarsPage() throws Exception {
+    @And("I validate the number of webinars")
+    public void validateCountOfWebinars() throws Exception {
 	//Obtain count of webinars
     }
 
